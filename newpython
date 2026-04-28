@@ -3,3 +3,10 @@ if num%2==0:
         print("even number")
 else:
         print("odd number")
+
+
+number=int(input("enter a number"))
+if number<0:
+    print("negetive")
+else:
+    print("positive")
